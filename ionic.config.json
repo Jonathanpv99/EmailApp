@@ -1,0 +1,7 @@
+{
+  "name": "appEmail",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
